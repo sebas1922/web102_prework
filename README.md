@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/vZV0vUI.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href=https://i.imgur.com/vZV0vUI.mp4>Walkthrough video</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video recorded using OBS
